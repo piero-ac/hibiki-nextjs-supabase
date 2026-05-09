@@ -7,9 +7,3 @@
 	--color-golden: #ffc857;
 	--color-graphite: #323031;
 }
-
-@layer base {
-	body {
-		@apply bg-graphite text-white;
-	}
-}
